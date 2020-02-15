@@ -6,7 +6,7 @@ python:
 - 3.7
 
 install:
-- python -m pip install -f requirements.txt
+- python -m pip install -r requirements.txt
 
 script:
 - python travis_test.py
