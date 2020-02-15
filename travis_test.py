@@ -22,14 +22,17 @@ if __name__ == "__main__":
                     print(item)  # dict
                     print(item.id_recurso)  # property
                     print(item.arquivos_anexados)  # tuple contains (url, file_name)
+                    break
 
                 elif isinstance(item, types.Pedido):
                     # you can convert item to json string using json.dumps or you can acess properties
                     print(item)  # dict
                     print(item.id_pedido)  # property
                     print(item.arquivos_anexados)  # tuple contains (url, file_name)
+                    break
 
                 elif isinstance(item, types.Solicitante):
                     # you can convert item to json string using json.dumps or you can acess properties
                     print(item)  # dict
                     print(item.id_solicitante)  # property
+                    break
