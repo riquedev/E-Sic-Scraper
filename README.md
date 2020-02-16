@@ -1,9 +1,14 @@
 # E-Sic-Scraper
 [![Build Status](https://travis-ci.com/riquedev/E-Sic-Scraper.svg?branch=master)](https://travis-ci.com/riquedev/E-Sic-Scraper) 
+[![codebeat badge](https://codebeat.co/badges/91ecff73-2df5-46c9-89c7-3f53d85c3738)](https://codebeat.co/projects/github-com-riquedev-e-sic-scraper-master)
+[![BCH compliance](https://bettercodehub.com/edge/badge/riquedev/E-Sic-Scraper?branch=master)](https://bettercodehub.com/)
 [![codecov](https://codecov.io/gh/riquedev/E-Sic-Scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/riquedev/E-Sic-Scraper)
+
 [![star this repo](http://githubbadges.com/star.svg?user=riquedev&style=flat-square&repo=E-Sic-Scraper)](https://github.com/riquedev/E-Sic-Scraper)
 [![fork this repo](http://githubbadges.com/fork.svg?user=riquedev&style=flat-square&repo=E-Sic-Scraper)](https://github.com/riquedev/E-Sic-Scraper/fork)
+
 ![](./images/e-sic.jpg) 
+
 
 Pacote para automatização de coletas no portal E-Sic, você pode obter os dados sobre as perguntas, respostas e até mesmo baixar os arquivos anexados.
 
