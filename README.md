@@ -11,6 +11,10 @@ Pacote para automatização de coletas no portal E-Sic, você pode obter os dado
 
 `pip install E-Sic`
 
+#### Atenção
+
+Alguns arquivos podem estar temporariamente indisponíveis, você pode conferir os anos disponíveis no portal. 
+
 #### Como Utilizar
 
 ```python
