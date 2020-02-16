@@ -2,7 +2,6 @@
 [![Build Status](https://travis-ci.com/riquedev/E-Sic-Scraper.svg?branch=master)](https://travis-ci.com/riquedev/E-Sic-Scraper) 
 [![codebeat badge](https://codebeat.co/badges/91ecff73-2df5-46c9-89c7-3f53d85c3738)](https://codebeat.co/projects/github-com-riquedev-e-sic-scraper-master)
 [![BCH compliance](https://bettercodehub.com/edge/badge/riquedev/E-Sic-Scraper?branch=master)](https://bettercodehub.com/)
-[![DeepScan grade](https://deepscan.io/api/teams/7503/projects/9586/branches/126584/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=7503&pid=9586&bid=126584)
 [![codecov](https://codecov.io/gh/riquedev/E-Sic-Scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/riquedev/E-Sic-Scraper)
 
 [![star this repo](http://githubbadges.com/star.svg?user=riquedev&style=flat-square&repo=E-Sic-Scraper)](https://github.com/riquedev/E-Sic-Scraper)
