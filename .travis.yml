@@ -1,12 +1,16 @@
+env:
+  global:
+    - CC_TEST_REPORTER_ID=e1d188936ed92870f8ed42529b4c235f31a7136924e5a13210522d744721b635
+
 language: python
 os:
   - linux
-  
+
 python:
 - 3.6
 - 3.7
 
-before_script:  # code coverage tool
+before_script:
   - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
   - chmod +x ./cc-test-reporter
   - ./cc-test-reporter before-build
@@ -21,9 +25,5 @@ after_success:
   - codecov
 
 after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
   - coverage xml
-  - if [[ "$TRAVIS_PULL_REQUEST" == "false"]]; then ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT; fi
-
-env:
-  global:
-    - CC_TEST_REPORTER_ID=e1d188936ed92870f8ed42529b4c235f31a7136924e5a13210522d744721b635
