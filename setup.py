@@ -50,7 +50,8 @@ setup(
         'w3lib==1.21.0',
         'websockets',
         'yarl',
-        'codecov'
+        'codecov',
+        "coverage"
     ],
 
     project_urls={

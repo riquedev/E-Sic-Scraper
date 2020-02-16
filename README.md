@@ -2,7 +2,13 @@
 [![Build Status](https://travis-ci.com/riquedev/E-Sic-Scraper.svg?branch=master)](https://travis-ci.com/riquedev/E-Sic-Scraper) 
 [![codebeat badge](https://codebeat.co/badges/91ecff73-2df5-46c9-89c7-3f53d85c3738)](https://codebeat.co/projects/github-com-riquedev-e-sic-scraper-master)
 [![BCH compliance](https://bettercodehub.com/edge/badge/riquedev/E-Sic-Scraper?branch=master)](https://bettercodehub.com/)
+[![PyPI version](https://badge.fury.io/py/E-Sic.svg)](https://badge.fury.io/py/E-Sic)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/4781fce01dd82b706b72/maintainability)](https://codeclimate.com/repos/5e4955e75cfea500c7000f8e/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/4781fce01dd82b706b72/test_coverage)](https://codeclimate.com/repos/5e4955e75cfea500c7000f8e/test_coverage)
 [![codecov](https://codecov.io/gh/riquedev/E-Sic-Scraper/branch/master/graph/badge.svg)](https://codecov.io/gh/riquedev/E-Sic-Scraper)
+[![](https://img.shields.io/badge/python-3.6-blue.svg)](https://pypi.org/project/sanic-restful/)
+
 
 [![star this repo](http://githubbadges.com/star.svg?user=riquedev&style=flat-square&repo=E-Sic-Scraper)](https://github.com/riquedev/E-Sic-Scraper)
 [![fork this repo](http://githubbadges.com/fork.svg?user=riquedev&style=flat-square&repo=E-Sic-Scraper)](https://github.com/riquedev/E-Sic-Scraper/fork)
