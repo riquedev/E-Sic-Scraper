@@ -9,9 +9,7 @@ Pacote para automatização de coletas no portal E-Sic, você pode obter os dado
 
 #### Instalação
 
-```bash
-pip install E-Sic
-```
+`pip install E-Sic`
 
 #### Como Utilizar
 
