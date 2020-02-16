@@ -26,4 +26,4 @@ after_success:
 
 after_script:
   - coverage xml
-  - ./cc-test-reporter --file .coverage
+  - ./cc-test-reporter after-build --file .coverage
