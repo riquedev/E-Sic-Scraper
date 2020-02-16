@@ -26,4 +26,4 @@ after_success:
 
 after_script:
   - coverage xml
-  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
+  - ./cc-test-reporter --file .coverage
