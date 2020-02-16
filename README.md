@@ -7,6 +7,12 @@
 
 Pacote para automatização de coletas no portal E-Sic, você pode obter os dados sobre as perguntas, respostas e até mesmo baixar os arquivos anexados.
 
+#### Instalação
+
+```bash
+pip install E-Sic
+```
+
 #### Como Utilizar
 
 ```python
