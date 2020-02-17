@@ -1,4 +1,5 @@
 # E-Sic-Scraper
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dabc133642494d4a9664e20bc96bbe12)](https://app.codacy.com/manual/rique_dev/E-Sic-Scraper?utm_source=github.com&utm_medium=referral&utm_content=riquedev/E-Sic-Scraper&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/riquedev/E-Sic-Scraper.svg?branch=master)](https://travis-ci.com/riquedev/E-Sic-Scraper) 
 [![codebeat badge](https://codebeat.co/badges/91ecff73-2df5-46c9-89c7-3f53d85c3738)](https://codebeat.co/projects/github-com-riquedev-e-sic-scraper-master)
 [![BCH compliance](https://bettercodehub.com/edge/badge/riquedev/E-Sic-Scraper?branch=master)](https://bettercodehub.com/)
