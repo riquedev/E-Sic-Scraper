@@ -46,7 +46,7 @@ setup(
         'soupsieve==1.9.5',
         'tqdm==4.42.1',
         'typing-extensions==3.7.4.1',
-        'urllib3==1.25.8',
+        'urllib3==1.26.5',
         'w3lib==1.21.0',
         'websockets',
         'yarl',
