@@ -21,7 +21,7 @@ setup(
     install_requires=[
         'aiofile==1.5.2',
         'aiofiles==0.4.0',
-        'aiohttp==3.6.2',
+        'aiohttp==3.8.1',
         'appdirs==1.4.3',
         'async-timeout==3.0.1',
         'asyncio==3.4.3',
